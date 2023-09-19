@@ -4,10 +4,6 @@
 
 A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 
-<a href="https://usememos.com/docs">Documentation</a> •
-<a href="https://demo.usememos.com/">Live Demo</a> •
-Discuss in <a href="https://discord.gg/tfPJa4UmAv">Discord</a> / <a href="https://t.me/+-_tNF1k70UU4ZTc9">Telegram</a>
-
 <p>
   <a href="https://github.com/usememos/memos/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/usememos/memos?logo=github" /></a>
   <a href="https://hub.docker.com/r/neosmemo/memos"><img alt="Docker pull" src="https://img.shields.io/docker/pulls/neosmemo/memos.svg"/></a>
@@ -38,10 +34,6 @@ Learn more about [other installation methods](https://usememos.com/docs#installa
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. We greatly appreciate any contributions you make. Thank you for being a part of our community! 🥰
 
-<a href="https://github.com/usememos/memos/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=usememos/memos" />
-</a>
-
 ---
 
 - [Moe Memos](https://memos.moe/) - Third party client for iOS and Android
@@ -56,10 +48,3 @@ Contributions are what make the open-source community such an amazing place to l
 - [Memos Desktop](https://github.com/xudaolong/memos-desktop) - Third party client for MacOS and Windows
 - [MemosGallery](https://github.com/BarryYangi/MemosGallery) - A static Gallery rendered with the Memos API
 
-## Acknowledgements
-
-- Thanks [Uffizzi](https://www.uffizzi.com/) for sponsoring preview environments for PRs.
-
-## Star history
-
-[![Star History Chart](https://api.star-history.com/svg?repos=usememos/memos&type=Date)](https://star-history.com/#usememos/memos&Date)
